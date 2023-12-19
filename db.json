@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Merhaba blog",
+      "content": "loremloremloremlroemloremloremloremloermloremloerm",
+      "createdDate": "2023-11-11"
+    },
+    {
+      "id": 2,
+      "title": "Angular nedir",
+      "content": "loremloremloremlroemloremloremloremloermloremloerm",
+      "createdDate": "2023-11-11"
+    },
+    {
+      "title": "asda",
+      "createdDate": "sdas",
+      "content": "asd",
+      "id": 1702978534181
+    },
+    {
+      "title": "tayfur",
+      "createdDate": "010201",
+      "content": "tafyur parmak",
+      "id": 1702978667540
+    }
+  ]
+}

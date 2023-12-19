@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Merhaba blog",
+      "content": "loremloremloremlroemloremloremloremloermloremloerm",
+      "createdDate": "2023-11-11"
+    },
+    {
+      "id": 2,
+      "title": "Angular nedir",
+      "content": "loremloremloremlroemloremloremloremloermloremloerm",
+      "createdDate": "2023-11-11"
+    }
+  ]
+}
